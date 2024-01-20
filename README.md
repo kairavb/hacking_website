@@ -1,7 +1,8 @@
 # hacking_website
-a ethical hacking website i made when i was 13 years old (2017)  
+a old website to learn about ethical hacking and tinker with few tools
 
 // intro  
+i made this when i was 13 years old (2017)  
 this was my first website, made for school competittion, got 1st prize there!!  
 i continued to upgrade the project months after competition, so the final version differs with the orignal by little  
 at that time i was very much intrested in the field of cyber security, wanted to become ethcial hacker  
