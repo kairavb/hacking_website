@@ -1,5 +1,5 @@
 # hacking_website
-a old website to learn about ethical hacking and tinker with few tools
+an old website to learn about ethical hacking and tinker with few tools
 
 // intro  
 i made this when i was 13 years old (2017)  
@@ -10,6 +10,7 @@ now i am shifting to github, so uploading it here to preserve this very old proj
 only made changes that are absolutly required for running this project without errors  
 
 // how to run  
+git clone (this repo link)  
 open hacking.html (homepage) in any browser  
 
 // external sources  
